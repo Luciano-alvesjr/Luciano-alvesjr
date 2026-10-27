@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0D1117,50:003B1F,100:0D1117&text=LUCIANO%20ALVES&fontColor=00FF41&fontSize=54&fontAlign=50&fontAlignY=40&desc=sudo%20make%20career&descColor=00E5FF&descSize=20&descAlign=50&descAlignY=65&stroke=00FF41&strokeWidth=1" alt="Luciano Alves" />
-</p>type=rect&height=220&color=0:0D1117,100:003B1F&text=LUCIANO%20ALVES&fontColor=00FF41&fontSize=58&fontAlignY=42&desc=cd%20/dev/future%20%26%26%20sudo%20make%20career&descColor=00E5FF&descSize=20&descAlignY=66&animation=twinkling" alt="header" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Luciano-alvesjr">
